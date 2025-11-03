@@ -1,0 +1,17 @@
+.character-card {
+    text-align: center;
+    background-color: #0091ad;
+    color: #fff;
+    border-radius: 16px;
+    padding: 20px;
+    max-width: 300px;
+    margin: 10px auto;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.character-card img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}

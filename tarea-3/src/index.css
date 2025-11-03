@@ -1,0 +1,29 @@
+body {
+    background-color: #272640;
+}
+
+.container {
+    text-align: center;
+}
+
+.container h1 {
+    font-size: 70px;
+    color: #006466;
+}
+
+button {
+    padding: 16px;
+    margin: 10px 20px;
+    background-color: #4d194d;
+    color: #fff;
+    font-weight: 700;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    border-radius: 16px;
+    border: none;
+    transition: 0.2s ease-in-out;
+}
+
+button:hover {
+    transform: scale(1.3);
+}
