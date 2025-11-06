@@ -15,7 +15,7 @@ export const Navbar = () => {
           className="text-xl font-semibold text-red-600 cursor-pointer"
           onClick={() => navigate("/home")}
         >
-          GYMBRO
+          Tarea IV
         </h1>
         <button
           onClick={handleLogout}
